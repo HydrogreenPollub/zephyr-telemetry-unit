@@ -1,0 +1,22 @@
+identifier: telemetry_unit
+name: Telemetry Unit
+vendor: hydrogreen
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 96
+flash: 512
+supported:
+  - nvs
+  - pwm
+  - i2c
+  - gpio
+  - usb device
+  - counter
+  - spi
+  - watchdog
+  - adc
+  - dac
+  - dma
+  - can
+  - rtc

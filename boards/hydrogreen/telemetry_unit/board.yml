@@ -1,0 +1,6 @@
+board:
+  name: telemetry_unit
+  full_name: Telemetry Unit
+  vendor: hydrogreen
+  socs:
+    - name: stm32g491xx

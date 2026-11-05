@@ -1,0 +1,6 @@
+build/
+build_*/
+.vscode/
+.idea/
+*.jlink
+*.jdebug.user
